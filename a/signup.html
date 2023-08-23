@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>login:213121</title>
+
+</head>
+<style>
+    .body{
+        background-image: url(baghotel.jpg);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        text-align: center;
+        color:black;
+        border: solid black 5px;
+        align-items: center;
+        margin-right: 50%;
+        
+        
+    }
+    .al{
+             background-color: floralwhite;
+    }
+    #na{
+        width: 40%;
+    }
+    #ph{
+        width: 35%;
+    }
+    #mai{
+        width:40%;
+    }
+    #pass{
+        width: 35%;
+    }
+
+</style>
+
+<body class="body">
+    <form action="fairst_php.php" class="al" method="post">
+        <h1 class="ti">Sign up</h1>
+        <p>Name:-<input type="text" rows="4" name="user_name" id="na" value=""required></p>
+
+        <p>Phone no:-<input type="number" lrequired  id="ph"></p>
+
+        <p>Gmail:-<input type="mail" id="mai" name="email"></p>
+
+        <p> password:-<input type="password" placeholder="Enter password"id="pass" required ></p>
+
+        <center><p><input type="submit" name="save"></p></center>
+        click here to <a href="login.html"style="color:blue">login</a>
+        <br><br>
+    </form>
+</body>
+
+</html>
