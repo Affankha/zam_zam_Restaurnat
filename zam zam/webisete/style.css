@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: flex;
+    padding: 15px;
+    
+}
+.idfc{
+    margin-right: 12px;
+}
+.loginbut{
+    border-radius: 12px;
+}
+.right{
+    margin-left: 65%;
+    display: flex;
+}
+.mainform{
+    border: solid black 1px;
+    margin-right: 35%;
+}
+.mainform .maintext{
+    font-weight: 10;
+}
+.fl{
+    margin-left: 20%;
+    font: bold;
+    font-size: large;
+    font-weight: 600;
+}

@@ -1,0 +1,101 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+.second{
+    border: 1px black solid;
+    
+    margin-bottom: none;
+    margin: 15%;
+    padding: 4px;
+    
+}
+body{
+    width: 100%;
+}
+input{
+    width: 35%;
+  
+}
+.sign{
+    margin: 21px;
+
+    
+}
+
+.farbut{
+    background-color: skyblue;
+    padding: 14px;
+    padding-left: 16%;
+    padding-right: 16%;
+    color: blue;
+    text-rendering: bold;
+    border:  rgb(50, 143, 248);
+    border-radius:3px ;
+}
+.mail{
+    margin: 20px;
+    text-align: left;
+    padding-left: 4px;
+    height: 34px;
+}
+.pass{
+    margin: 20px;
+    text-align: left;
+    padding-left:4px;
+    height: 34px;
+
+}
+.secbut{
+    color: white;
+    background-color: rgb(50, 143, 248);
+    padding-left: 13px;
+    padding-right: 13px;
+
+    padding-top: 6px;
+    padding-bottom: 7px;
+    border-radius: 5px;
+    border: transparent;
+
+}
+#star{
+    color: red;
+}
+.mfil{
+    padding: 30px;
+}
+.main .legend{
+    text-align: left;
+}
+.main .fortget{
+    text-align: right;
+    align-items: right;
+}
+.para{
+    text-align: left;
+    padding-left: 32%;
+    color: rgb(8, 143, 196);
+}
+.forgate{
+    float: left;
+    padding-left: 56%;
+    color: rgb(29, 164, 226);
+    
+ 
+}
+.remem{
+    float: left;
+    padding-left: 32%;
+}
+.secbut{
+    float: right;
+    margin-right: 320px;
+    margin-bottom: 58px;
+}
+.site{
+    margin-left: 30%;
+    padding-bottom: 5%;
+}

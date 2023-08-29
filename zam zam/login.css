@@ -1,0 +1,20 @@
+    .body{
+        background-image: url(baghotel.jpg);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        text-align: center;
+        color:black;
+        border: solid black 5px;
+        align-items: center;
+        margin-right: 50%;
+        
+        
+    }
+    .al{
+             background-color: floralwhite;
+        
+    }
+    #pa{
+        width: 36%;
+    }
+
